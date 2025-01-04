@@ -10,4 +10,8 @@ Meza Gonzalez, marco.meza
 
 # Segunda sección
 
+**Mas texto en negrita**
+
 ## Otro subtítulo
+
+*Otro mas en cursiva*
