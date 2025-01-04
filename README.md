@@ -1,7 +1,7 @@
 # hello-world
 Este es mi primer repo
 
-Meza Gonzalez, marco.meza
+Meza Gonzalez, Gian
 
 ## Subtítulo
 
